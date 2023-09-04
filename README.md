@@ -1,1 +1,0 @@
-# Lopamudra_devops
